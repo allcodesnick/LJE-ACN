@@ -1,0 +1,31 @@
+name: Java Maven CI
+
+on:
+  push:
+    branches:
+      - prd-main
+  pull_request:
+    branches:
+      - prd-main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'adopt'
+          java-version: '19'
+
+      - name: Build with Maven
+        run: |
+          cd LocalJavaEnvironment/pom.xml
+          mvn clean install
+      
+
