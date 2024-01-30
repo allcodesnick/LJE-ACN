@@ -1,10 +1,10 @@
-package com.allcodesnick.den.project2.controller;
+package com.allcodesnick.den.project1.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class HomeController {
+public class Project1Controller {
 
     @GetMapping("/")
     public String login() {
