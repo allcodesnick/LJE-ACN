@@ -1,12 +1,12 @@
-package com.allcodesnick.den.project2.controller;
+package com.allcodesnick.den.webpages.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class Project2Controller {
+public class Project1Controller {
 
-    @GetMapping("/p2")
+    @GetMapping("/")
     public String login() {
         return "Hello World";
     }

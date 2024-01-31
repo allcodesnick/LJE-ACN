@@ -1,4 +1,4 @@
-package com.allcodesnick.den.project3.controller;
+package com.allcodesnick.den.scrappers.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
