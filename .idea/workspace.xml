@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80eba94e-39a6-477b-8f49-57559803bae1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LocalJavaEnvironment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LocalJavaEnvironment/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +103,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "prd-main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/justn/Desktop/LJE-ACN/LocalJavaEnvironment/src/main/java/com/allcodesnick/den",
     "project.structure.last.edited": "Libraries",
