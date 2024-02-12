@@ -1,13 +1,13 @@
-package com.allcodesnick.den.project1.controller;
+package com.allcodesnick.den.socialbuggs.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class Project1Controller {
+public class HomeController {
 
-    @GetMapping("/p1")
+    @GetMapping("/social-buggs")
     public String login() {
-        return "Hello World";
+        return "Hello and Welcome to the Site";
     }
 }
