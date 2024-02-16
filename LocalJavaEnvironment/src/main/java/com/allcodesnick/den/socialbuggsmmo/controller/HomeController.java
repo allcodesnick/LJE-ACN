@@ -1,4 +1,4 @@
-package com.allcodesnick.den.socialbuggs.controller;
+package com.allcodesnick.den.socialbuggsmmo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
