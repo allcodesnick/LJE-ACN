@@ -2,7 +2,7 @@ package com.allcodesnick.den.scriptkiddie.scripts;
 // Creating a text File using FileWriter
 import java.io.FileWriter;
 import java.io.IOException;
-
+// Jsoup Web Scrapper
 
 public class ResumeBOT {
     public boolean fileExist = false;
