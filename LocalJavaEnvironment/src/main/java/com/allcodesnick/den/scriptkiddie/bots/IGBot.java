@@ -1,4 +1,4 @@
-package com.allcodesnick.den.scriptkiddie.scripts;
+package com.allcodesnick.den.scriptkiddie.bots;
 
 public class IGBot {
 
